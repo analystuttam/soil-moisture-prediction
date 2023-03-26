@@ -1,7 +1,7 @@
 # soil-moisture-prediction
 
-Team Members :-
-Uttam Kumar
-Priyanshu Sharma
-Aditya Anand
-Rishabh Adhikari
+## Team Members :-
+### Uttam Kumar
+### Priyanshu Sharma
+### Aditya Anand
+### Rishabh Adhikari
